@@ -1,0 +1,21 @@
+body {
+    background-color: green;
+    font-family: Arial, sans-serif;
+    margin: 100;
+    padding: 0;
+    color: #222;
+}
+
+h2 {
+    color: #2a5d9f;
+    font-size: 2em;
+    margin-top: 1.5em;
+    margin-bottom: 0.5em;
+}
+
+p {
+    color: #444;
+    font-size: 1em;
+    line-height: 1.6;
+    margin-bottom: 1em;
+}
