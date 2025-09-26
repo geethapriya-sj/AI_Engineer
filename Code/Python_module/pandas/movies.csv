@@ -1,101 +1,40 @@
-Movie Name,Industry,Rating,Turnover (INR)
-Avengers: Endgame,Hollywood,4.8,16650000000
-Bajrangi Bhaijaan,Bollywood,8.8,15220000000
-Inception,Hollywood,9.5,17630000000
-War,Bollywood,8.9,900000000
-Titanic,Hollywood,7.8,6950000000
-Dangal,Bollywood,9.2,19940000000
-War,Bollywood,5.5,16950000000
-KGF,Local,3.9,370000000
-Avengers: Endgame,Hollywood,7.2,4790000000
-Drishyam,Local,9.4,18220000000
-Avengers: Endgame,Hollywood,5.3,2790000000
-Kaala,Local,8.0,12100000000
-Bajrangi Bhaijaan,Bollywood,4.4,15810000000
-Dangal,Bollywood,6.1,10230000000
-Asuran,Local,7.5,13220000000
-Lucia,Local,7.4,4960000000
-Kabir Singh,Bollywood,5.1,14630000000
-Baahubali,Local,9.0,15470000000
-Jurassic World,Hollywood,9.3,13340000000
-Sairat,Local,9.5,11020000000
-Kaala,Local,9.6,2000000000
-PK,Bollywood,4.4,18200000000
-Arjun Reddy,Local,6.7,500000000
-Jurassic World,Hollywood,6.8,18320000000
-Baahubali,Local,4.4,8800000000
-Dangal,Bollywood,8.5,5740000000
-KGF,Local,5.4,16390000000
-Baahubali,Local,3.2,10470000000
-Bajrangi Bhaijaan,Bollywood,7.0,12130000000
-Drishyam,Local,8.3,11660000000
-3 Idiots,Bollywood,3.3,7050000000
-Dangal,Bollywood,6.7,19760000000
-KGF,Local,4.7,440000000
-Frozen,Hollywood,8.4,17940000000
-Chennai Express,Bollywood,8.7,3580000000
-Jurassic World,Hollywood,4.7,19100000000
-Sairat,Local,6.9,15980000000
-Avengers: Endgame,Hollywood,8.0,14760000000
-Dilwale Dulhania Le Jayenge,Bollywood,4.1,6940000000
-Jurassic World,Hollywood,5.8,17590000000
-Bajrangi Bhaijaan,Bollywood,8.3,14530000000
-War,Bollywood,6.2,1980000000
-Kaala,Local,6.7,9740000000
-KGF,Local,6.2,7320000000
-Avatar,Hollywood,8.9,13810000000
-Avengers: Endgame,Hollywood,3.4,11670000000
-KGF,Local,5.7,17370000000
-Frozen,Hollywood,8.5,16080000000
-Jurassic World,Hollywood,7.9,8100000000
-Bajrangi Bhaijaan,Bollywood,6.8,15920000000
-Chennai Express,Bollywood,4.6,8160000000
-Drishyam,Local,6.3,4810000000
-KGF,Local,6.0,18790000000
-Dilwale Dulhania Le Jayenge,Bollywood,3.2,18890000000
-Baahubali,Local,7.6,14260000000
-Drishyam,Local,3.0,10160000000
-Titanic,Hollywood,3.8,4860000000
-Kabir Singh,Bollywood,4.3,13670000000
-Frozen,Hollywood,4.4,5630000000
-Drishyam,Local,3.4,11770000000
-The Avengers,Hollywood,7.5,5880000000
-PK,Bollywood,3.7,9030000000
-Baahubali,Local,3.2,8230000000
-Arjun Reddy,Local,9.3,7180000000
-Chennai Express,Bollywood,9.6,5840000000
-Drishyam,Local,8.4,5780000000
-PK,Bollywood,9.9,1130000000
-Drishyam,Local,3.2,1260000000
-3 Idiots,Bollywood,6.5,13460000000
-Avengers: Endgame,Hollywood,7.9,3270000000
-The Dark Knight,Hollywood,3.8,12880000000
-Avengers: Endgame,Hollywood,7.7,14140000000
-Kabir Singh,Bollywood,5.6,13600000000
-Arjun Reddy,Local,4.5,2280000000
-Lucia,Local,4.9,18790000000
-Jurassic World,Hollywood,9.2,10030000000
-KGF,Local,5.2,12540000000
-Titanic,Hollywood,7.9,7590000000
-Dangal,Bollywood,5.2,19160000000
-War,Bollywood,7.4,15620000000
-Chennai Express,Bollywood,3.7,19740000000
-Titanic,Hollywood,6.9,420000000
-PK,Bollywood,7.6,12200000000
-Titanic,Hollywood,5.9,17610000000
-Lucia,Local,7.0,16960000000
-Asuran,Local,9.3,8330000000
-Dilwale Dulhania Le Jayenge,Bollywood,5.7,8260000000
-Frozen,Hollywood,7.6,5220000000
-Chennai Express,Bollywood,9.2,4470000000
-Dangal,Bollywood,4.8,5760000000
-3 Idiots,Bollywood,4.4,6090000000
-Bajrangi Bhaijaan,Bollywood,8.3,17320000000
-3 Idiots,Bollywood,5.9,18400000000
-Inception,Hollywood,9.0,5660000000
-Avatar,Hollywood,8.6,11980000000
-Lucia,Local,4.9,290000000
-Asuran,Local,9.8,16220000000
-Avengers: Endgame,Hollywood,9.4,2650000000
-Chennai Express,Bollywood,8.2,4770000000
-The Dark Knight,Hollywood,7.9,2450000000
+movie_id,title,industry,release_year,imdb_rating,studio,language_id
+101,K.G.F: Chapter 2,Bollywood,2022,8.4,Hombale Films,3
+102,Doctor Strange in the Multiverse of Madness,Hollywood,2022,7,Marvel Studios,5
+103,Thor: The Dark World ,Hollywood,2013,6.8,Marvel Studios,5
+104,Thor: Ragnarok ,Hollywood,2017,7.9,Marvel Studios,5
+105,Thor: Love and Thunder ,Hollywood,2022,6.8,Marvel Studios,5
+106,Sholay,Bollywood,1975,8.1,United Producers,1
+107,Dilwale Dulhania Le Jayenge,Bollywood,1995,8,Yash Raj Films,1
+108,3 Idiots,Bollywood,2009,8.4,Vinod Chopra Films,1
+109,Kabhi Khushi Kabhie Gham,Bollywood,2001,7.4,Dharma Productions,1
+110,Bajirao Mastani ,Bollywood,2015,7.2,,1
+111,The Shawshank Redemption,Hollywood,1994,9.3,Castle Rock Entertainment,5
+112,Inception,Hollywood,2010,8.8,Warner Bros. Pictures,5
+113,Interstellar,Hollywood,2014,8.6,Warner Bros. Pictures,5
+115,The Pursuit of Happyness,Hollywood,2006,8,Columbia Pictures,5
+116,Gladiator,Hollywood,2000,8.5,Universal Pictures  ,5
+117,Titanic,Hollywood,1997,7.9,Paramount Pictures,5
+118,It's a Wonderful Life,Hollywood,1946,8.6,Liberty Films,5
+119,Avatar,Hollywood,2009,7.8,20th Century Fox,5
+120,The Godfather,Hollywood,1972,9.2,Paramount Pictures,5
+121,The Dark Knight,Hollywood,2008,9,Syncopy,5
+122,Schindler's List,Hollywood,1993,9,Universal Pictures,5
+123,Jurassic Park,Hollywood,1993,8.2,Universal Pictures,5
+124,Parasite,Hollywood,2019,8.5,,5
+125,Avengers: Endgame,Hollywood,2019,8.4,Marvel Studios,5
+126,Avengers: Infinity War,Hollywood,2018,8.4,Marvel Studios,5
+127,Pather Panchali,Bollywood,1955,8.3,Government of West Bengal,7
+128,Taare Zameen Par,Bollywood,2007,8.3,,1
+129,Munna Bhai M.B.B.S.,Bollywood,2003,8.1,Vinod Chopra Productions,1
+130,PK,Bollywood,2014,8.1,Vinod Chopra Films,1
+131,Sanju,Bollywood,2018,NULL,Vinod Chopra Films,1
+132,Pushpa: The Rise - Part 1,Bollywood,2021,7.6,Mythri Movie Makers,2
+133,RRR,Bollywood,2022,8,DVV Entertainment,2
+134,Baahubali: The Beginning,Bollywood,2015,8,Arka Media Works,2
+135,The Kashmir Files,Bollywood,2022,8.3,Zee Studios,1
+136,Bajrangi Bhaijaan,Bollywood,2015,8.1,Salman Khan Films,1
+137,Captain America: The First Avenger,Hollywood,2011,6.9,Marvel Studios,5
+138,Captain America: The Winter Soldier,Hollywood,2014,7.8,Marvel Studios,5
+139,Race 3,Bollywood,2018,1.9,Salman Khan Films,1
+140,Shershaah,Bollywood,2021,8.4,Dharma Productions,1
